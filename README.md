@@ -41,5 +41,5 @@ B. CREATING THE CALLING PAGE
    
 
 ## Preview
-![](https://github.com/kevincch/apexmodallookup/master/preview.png)
+![](https://raw.githubusercontent.com/kevincch/apexmodallookup/master/preview.gif)
   
