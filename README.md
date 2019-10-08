@@ -39,5 +39,7 @@ B. CREATING THE CALLING PAGE
    - Returning Page Items - The Page Item in Lookup Page to be returned
    - Lookup Application ID - The Lookup Page can be called from different application (provided that both applications are sharing the same authentication session cookies)
    
-   
+
+## Preview
+![](https://github.com/kevincch/apexmodallookup/master/preview.png)
   
