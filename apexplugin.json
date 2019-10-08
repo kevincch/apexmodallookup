@@ -25,8 +25,8 @@
       "plugin" : {
         "internalName" : "MODEL PAGE",
         "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=52416:4",
-        "previewImage" : "https://github.com/kevincch/apexmodallookup/blob/master/Modal%20Page%20Lookup%20Demo.gif"
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=52416",
+        "previewImage" : "https://raw.githubusercontent.com/kevincch/apexmodallookup/master/preview.gif"
       }
     }
   }
