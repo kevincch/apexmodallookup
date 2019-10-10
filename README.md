@@ -1,8 +1,8 @@
 # apexmodallookup
 
-# Apex Modal Page Lookup
+# APEX Modal Page Lookup
 
-This project is setup for providing a quick and simple way for setup Oracle Apex Page with lookup function for any Page Item(s).  By pressing a button to call another Modal Page for Interactive Grid Search and returning the selected value(s) to calling Page Item(s).
+This project is setup for providing a quick and simple way for setup Oracle APEX Page with lookup function for any Page Item(s).  By pressing a button to call another Modal Page for Interactive Grid Search and returning the selected value(s) to calling Page Item(s).
 
 # How it works?
 
