@@ -10,11 +10,13 @@ There are two Dynamic Action Plugins, one for Calling Page and another for Looku
 
 # Installations
 
-Import the following plugins into your Application.
+Import the following plugins into your Application.  (import following under source subdirectory)
 
 dynamic_action_plugin_modal_page.sql
-
 dynamic_action_plugin_modal_page_lookup_button.sql
+
+An all-in-one demo application is available for import.  You can find it under demo subdirectory.  Choose the version you need.
+You might encounter problem during installations for APEX with lower version.  Try to install with ".... for APEX 5.1.sql" instead.
 
 # How to use?
 
@@ -38,8 +40,8 @@ B. CREATING THE CALLING PAGE
    - Lookup Page ID - The Lookup Page ID (a Modal Page)  for facilitating the search feature.
    - Returning Page Items - The Page Item in Lookup Page to be returned
    - Lookup Application ID - The Lookup Page can be called from different application (provided that both applications are sharing the same authentication session cookies)
-   
+
+
 
 ## Preview
 ![](https://raw.githubusercontent.com/kevincch/apexmodallookup/master/preview.gif)
-  
